@@ -1,2 +1,6 @@
 # service_charge
- An information system for a residents' association
+<<<<<<< HEAD
+An information system for a residents' association
+=======
+An information system for a residents' association
+>>>>>>> origin/main
