@@ -7,7 +7,7 @@ def qtrDetails():
               10:4, 11:4, 12:4}
     qtrStartMth = {1:1, 2:4, 3:7, 4:10}
     qtrEndMth = {1:3, 2:6, 3:9, 4:12}
-    qtrEndMthDay = {3:31, 6:30, 9:30, 12:31} 
+    qtrEndMthDay = {3:31, 6:30, 9:30, 12:31}
 
     inputDate = input('Enter entry/exit date (dd/mm/yyyy): ')
     try:
