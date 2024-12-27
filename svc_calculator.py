@@ -37,5 +37,4 @@ def svcChgAdj(case,annualSvcChg):
     
     
 if __name__ == '__main__':
-    print(svcChgAdj('entry', 250000)) 
-        
+    print(svcChgAdj('entry', 250000))
